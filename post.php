@@ -10,6 +10,6 @@ if (!empty($_POST['login_name'])) {
     echo 'Логин на задан!';
 }
 
-//var_dump($_COOKIE);
+var_dump($_COOKIE);
 
 ?>
